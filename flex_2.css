@@ -17,15 +17,11 @@
 
 }
 
-
-
 /*컨테이너 공통속성*/
 body>div:not(.bar){
     width:100%; 
     height:70px;
     position:fixed;
-    
-
     /*flex 속성*/
     display:flex; 
     align-items:center;
